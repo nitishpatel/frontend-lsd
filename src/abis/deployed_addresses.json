@@ -1,0 +1,17 @@
+{
+  "LSDAdminProxyModule#LSDAdmin": "0xc507d29fa0D5BDA98F65eeAd9BEA402E45f8E987",
+  "LSDInventoryProxyModule#LSDInventory": "0xdC59cB9157453C0292273108E67F323a309f2b54",
+  "ProxyModule#ValidAdmin": "0x36a8F1E449903201ec704e4fF5E9801947c89aFC",
+  "ValidAdminModule#NodeCreator": "0x768DE3e16e06f46c7d24F3073FaDB3617A59238b",
+  "ValidAdminModule#TokenCreator": "0x49e8A44EABd6A5C783B524a0F33C1FE00ACB381a",
+  "ValidAdminModule#stXDCToken": "0x165D9C8887bdE5E732c508BCA94Fe2Cc243831D4",
+  "LSDAdminProxyModule#TransparentUpgradeableProxy": "0xFD88c6C21Cb5EEe118368f1f38f0F1cB7F689C4c",
+  "LSDInventoryProxyModule#TransparentUpgradeableProxy": "0x694689e802355659f7f94d3e671B2435A29fe20c",
+  "ProxyModule#TransparentUpgradeableProxy": "0xe4EA46a799fed02527C01C30B10Eb85A3B05A926",
+  "LSDAdminProxyModule#ProxyAdmin": "0x4f6a1Ad0680C21c4aCC695A5a49B13b60d4265a9",
+  "LSDInventoryProxyModule#ProxyAdmin": "0x0DD620Fcd511002733Df6654DbaA7BEC4EC5dC43",
+  "ProxyModule#ProxyAdmin": "0x0A5792976E5FfB12bA82aeB66e4B4C603e05fEb7",
+  "ValidAdminModule#LSDAdmin": "0xFD88c6C21Cb5EEe118368f1f38f0F1cB7F689C4c",
+  "ValidAdminModule#LSDInventory": "0x694689e802355659f7f94d3e671B2435A29fe20c",
+  "ValidAdminModule#ValidAdmin": "0xe4EA46a799fed02527C01C30B10Eb85A3B05A926"
+}

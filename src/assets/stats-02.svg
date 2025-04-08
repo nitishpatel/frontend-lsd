@@ -1,0 +1,20 @@
+<svg id="stats-02" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64.995" height="64.079" viewBox="0 0 64.995 64.079">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_124" data-name="Rectangle 124" width="38.838" height="38.838" transform="translate(0 0)" fill="#fff" stroke="#283366" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <ellipse id="Ellipse_28" data-name="Ellipse 28" cx="32.497" cy="32.04" rx="32.497" ry="32.04" transform="translate(0 0)" fill="#283366"/>
+  <g id="Mask_Group_16" data-name="Mask Group 16" transform="translate(12.769 10.993)" clip-path="url(#clip-path)">
+    <g id="Group_185" data-name="Group 185" transform="translate(1.895 3.789)">
+      <g id="Group_183" data-name="Group 183" transform="translate(10.802 -1.479)">
+        <path id="Path_121" data-name="Path 121" d="M12.928,0A12.928,12.928,0,1,1,0,12.928,12.928,12.928,0,0,1,12.928,0Z" transform="translate(0)" fill="#223693"/>
+        <ellipse id="Ellipse_43" data-name="Ellipse 43" cx="9.825" cy="9.825" rx="9.825" ry="9.825" transform="translate(3.103 3.103)" fill="#fff"/>
+      </g>
+      <g id="Group_184" data-name="Group 184" transform="translate(-1.609 7.829)">
+        <ellipse id="Ellipse_44" data-name="Ellipse 44" cx="12.928" cy="12.928" rx="12.928" ry="12.928" transform="translate(0 0)" fill="#223693"/>
+        <ellipse id="Ellipse_45" data-name="Ellipse 45" cx="9.825" cy="9.825" rx="9.825" ry="9.825" transform="translate(3.103 3.103)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>

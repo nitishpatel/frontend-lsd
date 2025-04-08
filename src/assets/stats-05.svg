@@ -1,0 +1,29 @@
+<svg id="stats-05" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64.079" height="64.079" viewBox="0 0 64.079 64.079">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_119" data-name="Rectangle 119" width="43.667" height="43.667" fill="#fff" stroke="#fff" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <ellipse id="Ellipse_28" data-name="Ellipse 28" cx="32.04" cy="32.04" rx="32.04" ry="32.04" transform="translate(0 0)" fill="#fcc006"/>
+  <g id="Mask_Group_13" data-name="Mask Group 13" transform="translate(10.505 10.473)" clip-path="url(#clip-path)">
+    <g id="Group_169" data-name="Group 169" transform="translate(-0.412 1.648)">
+      <g id="Group_168" data-name="Group 168" transform="translate(0)">
+        <g id="Group_167" data-name="Group 167" transform="translate(0)">
+          <g id="Polygon_2" data-name="Polygon 2" transform="translate(0 16.293) rotate(-30)" fill="none">
+            <path d="M24.44,0l8.147,14.256L24.44,28.513H8.147L0,14.256,8.147,0Z" stroke="none"/>
+            <path d="M 9.88752555847168 3 L 3.455251693725586 14.2564697265625 L 9.88752555847168 25.512939453125 L 22.69868659973145 25.512939453125 L 29.13096046447754 14.2564697265625 L 22.69868659973145 3 L 9.88752555847168 3 M 8.146556854248047 0 L 24.43965530395508 0 L 32.58621597290039 14.2564697265625 L 24.43965530395508 28.512939453125 L 8.146556854248047 28.512939453125 L -3.814697265625e-06 14.2564697265625 L 8.146556854248047 0 Z" stroke="none" fill="#fff"/>
+          </g>
+        </g>
+        <path id="Path_102" data-name="Path 102" d="M9075,3926.488v27.071" transform="translate(-9053.761 -3919.589)" fill="#fff" stroke="#fff" stroke-width="3"/>
+        <path id="Path_103" data-name="Path 103" d="M0,0V27.07" transform="translate(32.96 13.667) rotate(60)" fill="#fff" stroke="#fff" stroke-width="3"/>
+        <path id="Path_104" data-name="Path 104" d="M0,27.069V0" transform="translate(32.96 27.201) rotate(120)" fill="#fff" stroke="#fff" stroke-width="3"/>
+        <ellipse id="Ellipse_29" data-name="Ellipse 29" cx="2.716" cy="2.716" rx="2.716" ry="2.716" transform="translate(4.946 10.31)" fill="#ffe8a2"/>
+        <ellipse id="Ellipse_30" data-name="Ellipse 30" cx="2.716" cy="2.716" rx="2.716" ry="2.716" transform="translate(18.523 2.163)" fill="#ffe8a2"/>
+        <ellipse id="Ellipse_31" data-name="Ellipse 31" cx="2.716" cy="2.716" rx="2.716" ry="2.716" transform="translate(18.523 33.392)" fill="#ffe8a2"/>
+        <ellipse id="Ellipse_32" data-name="Ellipse 32" cx="2.716" cy="2.716" rx="2.716" ry="2.716" transform="translate(4.946 25.245)" fill="#ffe8a2"/>
+        <ellipse id="Ellipse_33" data-name="Ellipse 33" cx="2.716" cy="2.716" rx="2.716" ry="2.716" transform="translate(32.101 25.245)" fill="#ffe8a2"/>
+        <ellipse id="Ellipse_34" data-name="Ellipse 34" cx="2.716" cy="2.716" rx="2.716" ry="2.716" transform="translate(32.101 10.31)" fill="#ffe8a2"/>
+      </g>
+    </g>
+  </g>
+</svg>

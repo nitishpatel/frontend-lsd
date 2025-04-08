@@ -1,0 +1,19 @@
+<svg id="stats-04" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64.414" height="64.414" viewBox="0 0 64.414 64.414">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_127" data-name="Rectangle 127" width="40.733" height="40.733" transform="translate(0)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <circle id="Ellipse_28" data-name="Ellipse 28" cx="32.207" cy="32.207" r="32.207" transform="translate(0)" fill="#0f8adb"/>
+  <g id="Mask_Group_17" data-name="Mask Group 17" transform="translate(11.841 12.314)" clip-path="url(#clip-path)">
+    <g id="Group_199" data-name="Group 199" transform="translate(4.593 4.593)">
+      <g id="Path_111" data-name="Path 111" transform="translate(-0.099 -0.105)" fill="#fff" fill-rule="evenodd">
+        <path d="M 14.73187828063965 31.50369262695312 C 6.764590263366699 30.813720703125 0.5989986658096313 24.13467788696289 0.5989986658096313 16.07235145568848 C 0.5989986658096313 8.010025024414062 6.764590263366699 1.330982804298401 14.73187828063965 0.6410094499588013 L 14.73187828063965 31.50369262695312 Z" stroke="none"/>
+        <path d="M 14.23187828063965 1.19610595703125 C 6.786991119384766 2.113105773925781 1.0989990234375 8.454689025878906 1.0989990234375 16.07235145568848 C 1.0989990234375 23.69000434875488 6.786982536315918 30.03158569335938 14.23187828063965 30.94859313964844 L 14.23187828063965 1.19610595703125 M 15.23187828063965 0.1050033569335938 L 15.23187828063965 32.03969955444336 C 6.799358367919922 31.5936222076416 0.0989990234375 24.61592102050781 0.0989990234375 16.07235145568848 C 0.0989990234375 7.528781890869141 6.799358367919922 0.5510711669921875 15.23187828063965 0.1050033569335938 Z" stroke="none" fill="#707070"/>
+      </g>
+      <path id="Path_112" data-name="Path 112" d="M15.232.1a15.99,15.99,0,0,0,0,31.935Z" transform="translate(-0.099 -0.105)" fill="#fff"/>
+      <path id="Path_113" data-name="Path 113" d="M27.559,27.526V42.635A15.991,15.991,0,0,0,42.668,27.526Z" transform="translate(-10.71 -10.701)" fill="#fff" fill-rule="evenodd"/>
+      <path id="Path_114" data-name="Path 114" d="M27.559,15.214H42.668A15.991,15.991,0,0,0,27.559.1Z" transform="translate(-10.71 -0.105)" fill="#2ea3f1" fill-rule="evenodd"/>
+    </g>
+  </g>
+</svg>
